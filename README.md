@@ -30,6 +30,8 @@ Je suis un développeur passionné, spécialisé dans la création d'application
 
 ### **Outils et plateformes**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)
 
 ## 🌱 En cours d’apprentissage
 - Amélioration des performances d’applications Angular
