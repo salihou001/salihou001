@@ -35,9 +35,7 @@ Je suis un développeur passionné, spécialisé dans la création d'application
 
 ## 🌱 En cours d’apprentissage
 - Amélioration des performances d’applications Angular
-- Sécurité et cryptage des données avec AES
-
-Outils et plateformes :
+- Sécurité et cryptage des d
 ## 🌟 Mes projets en vedette
 - [Bike Animation]([https://github.com/aboubakar-salihou/bike-animation](https://github.com/salihou001/bike-animation)) 🚴‍♂️
 - [interactif card animation]([https://github.com/aboubakar-salihou/e-facture-backend](https://github.com/salihou001/interactif-card-animation))
