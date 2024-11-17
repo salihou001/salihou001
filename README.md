@@ -1,5 +1,5 @@
 👋 Bonjour, je suis Aboubakar Salihou !
-🎯 Développeur Fullstack | 💻 Passionné de nouvelles technologies | 🌍 Basé à Douala, Cameroun
+🎯 Développeur Frontend | 💻 Passionné de nouvelles technologies | 🌍 Basé à Douala, Cameroun
 
 🚀 À propos de moi
 Je suis un développeur passionné avec plusieurs années d’expérience dans la conception, le développement et l’optimisation d’applications web et mobiles. Mon objectif est de créer des solutions performantes, élégantes et adaptées aux besoins des utilisateurs.
