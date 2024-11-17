@@ -2,7 +2,7 @@
 🎯 Développeur Frontend | 💻 Passionné du développement créatif | 🌍 Basé à Douala, Cameroun
 
 🚀 À propos de moi
-Je suis un développeur passionné avec plusieurs années d’expérience dans la conception, le développement et l’optimisation d’applications web et mobiles. Mon objectif est de créer des solutions performantes, élégantes et adaptées aux besoins des utilisateurs.
+Je suis un développeur passionné, spécialisé dans la création d'applications web et mobiles performantes, modernes et adaptées aux besoins des utilisateurs. Toujours curieux et motivé, j'adore integrer les design des défis web afin de m'évaluer et évoluer.
 
 🔧 ## 🛠️ Compétences techniques
 
@@ -10,7 +10,7 @@ Je suis un développeur passionné avec plusieurs années d’expérience dans l
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 
 ### **Frameworks et bibliothèques**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
@@ -36,9 +36,6 @@ Je suis un développeur passionné avec plusieurs années d’expérience dans l
 - Sécurité et cryptage des données avec AES
 
 Outils et plateformes :
-
-🌟 Projets en vedette
-📌 Voici quelques-uns de mes projets les plus représentatifs :
 ## 🌟 Mes projets en vedette
 - [Bike Animation]([https://github.com/aboubakar-salihou/bike-animation](https://github.com/salihou001/bike-animation)) 🚴‍♂️
 - [interactif card animation]([https://github.com/aboubakar-salihou/e-facture-backend](https://github.com/salihou001/interactif-card-animation))
