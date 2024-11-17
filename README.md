@@ -46,11 +46,7 @@ API backend robuste développée en Node.js et TypeScript, intégrant MongoDB.
 
 🌱 En cours d’apprentissage
 Je suis constamment à la recherche de nouvelles compétences et technologies pour améliorer mes projets :
-
 🔧 Optimisation des performances d’applications Angular
-🔐 Sécurité et cryptage des données avec AES
-📈 Statistiques GitHub
-
 
 📫 Me contacter
 Pour collaborer ou simplement échanger, voici comment me joindre :
