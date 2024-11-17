@@ -8,13 +8,21 @@ Je suis un développeur passionné avec plusieurs années d’expérience dans l
 Langages :
 
 Frameworks & Bibliothèques :
+- **Langages** : JavaScript, TypeScript, Python, C++
+- **Frameworks** : Angular, Ionic, Node.js, Nest.js
+- **Outils** : TailwindCSS, MongoDB, Docker
+
+## 🌱 En cours d’apprentissage
+- Amélioration des performances d’applications Angular
+- Sécurité et cryptage des données avec AES
 
 Outils et plateformes :
 
 🌟 Projets en vedette
 📌 Voici quelques-uns de mes projets les plus représentatifs :
-
-🚴‍♂️ Bike Animation
+## 🌟 Mes projets en vedette
+- [Bike Animation]([https://github.com/aboubakar-salihou/bike-animation](https://github.com/salihou001/bike-animation)) 🚴‍♂️
+- [interactif card animation]([https://github.com/aboubakar-salihou/e-facture-backend](https://github.com/salihou001/interactif-card-animation))
 Un projet interactif démontrant des animations avancées en Angular et CSS.
 
 💼 E-Facture Backend
@@ -31,6 +39,5 @@ Je suis constamment à la recherche de nouvelles compétences et technologies po
 📫 Me contacter
 Pour collaborer ou simplement échanger, voici comment me joindre :
 
-📧 Email : aboubakar@exemple.com
-🌐 Portfolio : www.aboubakar-salihou.dev
-🔗 LinkedIn : Aboubakar Salihou
+📧 Email : abousalihou17@gmail.com
+🔗 LinkedIn : [Aboubakar Salihou](https://www.linkedin.com/in/aboubakar-salihou-7b2a22270/)
