@@ -7,10 +7,15 @@ Je suis un développeur passionné avec plusieurs années d’expérience dans l
 🔧 Mes compétences
 Langages :
 
-Frameworks & Bibliothèques :
-- **Langages** : JavaScript, TypeScript, Python, C++
-- **Frameworks** : Angular, Ionic, Node.js, Nest.js
-- **Outils** : TailwindCSS, MongoDB, Docker
+## 🛠️ Compétences techniques
+- **Langages de programmation** :  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+- **Frameworks** :
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🌱 En cours d’apprentissage
 - Amélioration des performances d’applications Angular
