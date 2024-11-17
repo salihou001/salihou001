@@ -7,33 +7,31 @@ Je suis un développeur passionné, spécialisé dans la création d'application
 🔧 ## 🛠️ Compétences techniques
 
 ### **Langages de programmation**
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg)
-![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg)
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg)
-![C++](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=simpleicons-javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=simpleicons-typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=simpleicons-python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=simpleicons-c&logoColor=white&style=for-the-badge)
 
 ### **Frameworks et bibliothèques**
-![Angular](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/angular.svg)
-![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg)
-![NestJS](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nestjs.svg)
-![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg)
-![Ionic](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ionic.svg)
-![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=simpleicons-angular&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=simpleicons-nodedotjs&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=simpleicons-nestjs&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=simpleicons-express&logoColor=white&style=for-the-badge)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=simpleicons-ionic&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=simpleicons-bootstrap&logoColor=white&style=for-the-badge)
 
 ### **Outils de style**
-![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg)
-![Sass](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sass.svg)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=simpleicons-tailwindcss&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=simpleicons-sass&logoColor=white&style=for-the-badge)
 
 ### **Bases de données**
-![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg)
-![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=simpleicons-mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=simpleicons-mysql&logoColor=white&style=for-the-badge)
 
 ### **Outils et plateformes**
-![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg)
-![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg)
-![Bitbucket](https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bitbucket.svg)
-
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=simpleicons-docker&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=simpleicons-github&logoColor=white&style=for-the-badge)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=simpleicons-bitbucket&logoColor=white&style=for-the-badge)
 
 ## 🌱 En cours d’apprentissage
 - Amélioration des performances d’applications Angular
