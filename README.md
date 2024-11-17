@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Bonjour, je suis Aboubakar Salihou !
+🎯 Développeur Fullstack | 💻 Passionné de nouvelles technologies | 🌍 Basé à Douala, Cameroun
 
-<!--
-**salihou001/salihou001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 À propos de moi
+Je suis un développeur passionné avec plusieurs années d’expérience dans la conception, le développement et l’optimisation d’applications web et mobiles. Mon objectif est de créer des solutions performantes, élégantes et adaptées aux besoins des utilisateurs.
 
-Here are some ideas to get you started:
+🔧 Mes compétences
+Langages :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Bibliothèques :
+
+Outils et plateformes :
+
+🌟 Projets en vedette
+📌 Voici quelques-uns de mes projets les plus représentatifs :
+
+🚴‍♂️ Bike Animation
+Un projet interactif démontrant des animations avancées en Angular et CSS.
+
+💼 E-Facture Backend
+API backend robuste développée en Node.js et TypeScript, intégrant MongoDB.
+
+🌱 En cours d’apprentissage
+Je suis constamment à la recherche de nouvelles compétences et technologies pour améliorer mes projets :
+
+🔧 Optimisation des performances d’applications Angular
+🔐 Sécurité et cryptage des données avec AES
+📈 Statistiques GitHub
+
+
+📫 Me contacter
+Pour collaborer ou simplement échanger, voici comment me joindre :
+
+📧 Email : aboubakar@exemple.com
+🌐 Portfolio : www.aboubakar-salihou.dev
+🔗 LinkedIn : Aboubakar Salihou
